@@ -1,5 +1,3 @@
-# documentationTest
-
 # My Project Title
 
 ## Introduction
@@ -12,3 +10,5 @@ This is a brief introduction to my project.
 
 ## Installation
 To install this project, use the following command:
+```bash
+git clone https://github.com/your-username/your-repo.git
